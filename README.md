@@ -1,5 +1,5 @@
 
-![Logo]([hhttps://uploaddeimagens.com.br/imagens/9DhI2NI](https://github.com/DexProjetos/DexProjetos/blob/main/af4da517-3817-43d0-9662-2a1f6f9fbca0.png))
+![Logo](https://github.com/DexProjetos/DexProjetos/blob/main/af4da517-3817-43d0-9662-2a1f6f9fbca0.png)
 
 # Bem-vindo ao DEX - Dinamizando o Empreendedorismo
 
